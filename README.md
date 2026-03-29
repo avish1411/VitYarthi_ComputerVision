@@ -1,4 +1,3 @@
-# VitYarthi ComputerVision
 # 🛣️ Pothole Detection & Road Damage Assessment
 ### Real-Time Object Detection using YOLOv8 + OpenCV + PyTorch
 
